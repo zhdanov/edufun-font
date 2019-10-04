@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Custom
@@ -66,8 +67,8 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: C
-Encoding: -1 67 1
+StartChar: NameMe.29
+Encoding: -1 -1 1
 Width: 459
 VWidth: 0
 Flags: W
@@ -96,8 +97,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: D
-Encoding: -1 68 2
+StartChar: NameMe.30
+Encoding: -1 -1 2
 Width: 523
 VWidth: 0
 Flags: W
@@ -136,8 +137,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: A
-Encoding: -1 65 3
+StartChar: NameMe.27
+Encoding: -1 -1 3
 Width: 614
 VWidth: 0
 Flags: W
@@ -175,8 +176,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: E
-Encoding: -1 69 4
+StartChar: NameMe.31
+Encoding: -1 -1 4
 Width: 472
 VWidth: 0
 Flags: W
@@ -218,8 +219,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: F
-Encoding: -1 70 5
+StartChar: NameMe.32
+Encoding: -1 -1 5
 Width: 462
 VWidth: 0
 Flags: W
@@ -268,8 +269,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: G
-Encoding: -1 71 6
+StartChar: NameMe.33
+Encoding: -1 -1 6
 Width: 619
 VWidth: 0
 Flags: W
@@ -316,8 +317,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: H
-Encoding: -1 72 7
+StartChar: NameMe.34
+Encoding: -1 -1 7
 Width: 529
 VWidth: 0
 Flags: W
@@ -371,8 +372,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: I
-Encoding: -1 73 8
+StartChar: NameMe.35
+Encoding: -1 -1 8
 Width: 361
 VWidth: 0
 Flags: W
@@ -411,8 +412,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: J
-Encoding: -1 74 9
+StartChar: NameMe.36
+Encoding: -1 -1 9
 Width: 310
 VWidth: 0
 Flags: W
@@ -452,8 +453,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: K
-Encoding: -1 75 10
+StartChar: NameMe.37
+Encoding: -1 -1 10
 Width: 556
 VWidth: 0
 Flags: W
@@ -519,8 +520,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: L
-Encoding: -1 76 11
+StartChar: NameMe.38
+Encoding: -1 -1 11
 Width: 475
 VWidth: 0
 Flags: W
@@ -567,8 +568,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: M
-Encoding: -1 77 12
+StartChar: NameMe.39
+Encoding: -1 -1 12
 Width: 622
 VWidth: 0
 Flags: W
@@ -624,8 +625,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: N
-Encoding: -1 78 13
+StartChar: NameMe.40
+Encoding: -1 -1 13
 Width: 564
 VWidth: 0
 Flags: W
@@ -700,8 +701,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: O
-Encoding: -1 79 14
+StartChar: NameMe.41
+Encoding: -1 -1 14
 Width: 672
 VWidth: 0
 Flags: W
@@ -726,8 +727,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: P
-Encoding: -1 80 15
+StartChar: NameMe.42
+Encoding: -1 -1 15
 Width: 516
 VWidth: 0
 Flags: W
@@ -818,8 +819,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: Q
-Encoding: -1 81 16
+StartChar: NameMe.43
+Encoding: -1 -1 16
 Width: 654
 VWidth: 0
 Flags: W
@@ -855,8 +856,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: R
-Encoding: -1 82 17
+StartChar: NameMe.44
+Encoding: -1 -1 17
 Width: 560
 VWidth: 0
 Flags: W
@@ -901,8 +902,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: S
-Encoding: -1 83 18
+StartChar: NameMe.45
+Encoding: -1 -1 18
 Width: 503
 VWidth: 0
 Flags: W
@@ -941,8 +942,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: T
-Encoding: -1 84 19
+StartChar: NameMe.46
+Encoding: -1 -1 19
 Width: 588
 VWidth: 0
 Flags: W
@@ -974,8 +975,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U
-Encoding: -1 85 20
+StartChar: NameMe.47
+Encoding: -1 -1 20
 Width: 597
 VWidth: 0
 Flags: W
@@ -1012,8 +1013,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: V
-Encoding: -1 86 21
+StartChar: NameMe.48
+Encoding: -1 -1 21
 Width: 660
 VWidth: 0
 Flags: W
@@ -1040,8 +1041,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: W
-Encoding: -1 87 22
+StartChar: NameMe.49
+Encoding: -1 -1 22
 Width: 864
 VWidth: 0
 Flags: W
@@ -1078,8 +1079,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: X
-Encoding: -1 88 23
+StartChar: NameMe.50
+Encoding: -1 -1 23
 Width: 587
 VWidth: 0
 Flags: W
@@ -1112,8 +1113,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Y
-Encoding: -1 89 24
+StartChar: NameMe.51
+Encoding: -1 -1 24
 Width: 575
 VWidth: 0
 Flags: W
@@ -1143,8 +1144,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: Z
-Encoding: -1 90 25
+StartChar: NameMe.52
+Encoding: -1 -1 25
 Width: 620
 VWidth: 0
 Flags: W
@@ -1179,8 +1180,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: a
-Encoding: -1 97 26
+StartChar: NameMe.53
+Encoding: -1 -1 26
 Width: 453
 VWidth: 0
 Flags: HMW
@@ -1222,8 +1223,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: b
-Encoding: -1 98 27
+StartChar: NameMe.54
+Encoding: -1 -1 27
 Width: 494
 VWidth: 0
 Flags: HMW
@@ -1258,8 +1259,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: c
-Encoding: -1 99 28
+StartChar: NameMe.55
+Encoding: -1 -1 28
 Width: 398
 VWidth: 0
 Flags: HMW
@@ -1286,8 +1287,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: d
-Encoding: -1 100 29
+StartChar: NameMe.56
+Encoding: -1 -1 29
 Width: 510
 VWidth: 0
 Flags: HMW
@@ -1328,8 +1329,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: e
-Encoding: -1 101 30
+StartChar: NameMe.57
+Encoding: -1 -1 30
 Width: 441
 VWidth: 0
 Flags: HMW
@@ -1364,8 +1365,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: f
-Encoding: -1 102 31
+StartChar: NameMe.58
+Encoding: -1 -1 31
 Width: 405
 VWidth: 0
 Flags: HMW
@@ -1407,8 +1408,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: g
-Encoding: -1 103 32
+StartChar: NameMe.59
+Encoding: -1 -1 32
 Width: 520
 VWidth: 0
 Flags: HMW
@@ -1451,8 +1452,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: h
-Encoding: -1 104 33
+StartChar: NameMe.60
+Encoding: -1 -1 33
 Width: 471
 VWidth: 0
 Flags: HMW
@@ -1494,8 +1495,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: i
-Encoding: -1 105 34
+StartChar: NameMe.61
+Encoding: -1 -1 34
 Width: 187
 VWidth: 0
 Flags: HMW
@@ -1522,8 +1523,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: j
-Encoding: -1 106 35
+StartChar: NameMe.62
+Encoding: -1 -1 35
 Width: 327
 VWidth: 0
 Flags: HMW
@@ -1552,8 +1553,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: k
-Encoding: -1 107 36
+StartChar: NameMe.63
+Encoding: -1 -1 36
 Width: 453
 VWidth: 0
 Flags: HMW
@@ -1591,8 +1592,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: l
-Encoding: -1 108 37
+StartChar: NameMe.64
+Encoding: -1 -1 37
 Width: 184
 VWidth: 0
 Flags: W
@@ -1614,8 +1615,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: m
-Encoding: -1 109 38
+StartChar: NameMe.65
+Encoding: -1 -1 38
 Width: 700
 VWidth: 0
 Flags: HMW
@@ -1662,8 +1663,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: n
-Encoding: -1 110 39
+StartChar: NameMe.66
+Encoding: -1 -1 39
 Width: 427
 VWidth: 0
 Flags: HMW
@@ -1697,8 +1698,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: o
-Encoding: -1 111 40
+StartChar: NameMe.67
+Encoding: -1 -1 40
 Width: 489
 VWidth: 0
 Flags: HMW
@@ -1722,8 +1723,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: p
-Encoding: -1 112 41
+StartChar: NameMe.68
+Encoding: -1 -1 41
 Width: 484
 VWidth: 0
 Flags: HMW
@@ -1758,8 +1759,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: q
-Encoding: -1 113 42
+StartChar: NameMe.69
+Encoding: -1 -1 42
 Width: 471
 VWidth: 0
 Flags: HMW
@@ -1797,8 +1798,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: r
-Encoding: -1 114 43
+StartChar: NameMe.70
+Encoding: -1 -1 43
 Width: 336
 VWidth: 0
 Flags: HMW
@@ -1820,8 +1821,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: s
-Encoding: -1 115 44
+StartChar: NameMe.71
+Encoding: -1 -1 44
 Width: 356
 VWidth: 0
 Flags: HMW
@@ -1846,8 +1847,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: t
-Encoding: -1 116 45
+StartChar: NameMe.72
+Encoding: -1 -1 45
 Width: 324
 VWidth: 0
 Flags: HMW
@@ -1876,8 +1877,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: u
-Encoding: -1 117 46
+StartChar: NameMe.73
+Encoding: -1 -1 46
 Width: 444
 VWidth: 0
 Flags: HMW
@@ -1900,8 +1901,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: v
-Encoding: -1 118 47
+StartChar: NameMe.74
+Encoding: -1 -1 47
 Width: 470
 VWidth: 0
 Flags: HMW
@@ -1922,8 +1923,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: w
-Encoding: -1 119 48
+StartChar: NameMe.75
+Encoding: -1 -1 48
 Width: 666
 VWidth: 0
 Flags: HMW
@@ -1952,8 +1953,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: x
-Encoding: -1 120 49
+StartChar: NameMe.76
+Encoding: -1 -1 49
 Width: 423
 VWidth: 0
 Flags: HMW
@@ -1982,8 +1983,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: y
-Encoding: -1 121 50
+StartChar: NameMe.77
+Encoding: -1 -1 50
 Width: 505
 VWidth: 0
 Flags: HMW
@@ -2008,8 +2009,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: z
-Encoding: -1 122 51
+StartChar: NameMe.78
+Encoding: -1 -1 51
 Width: 416
 VWidth: 0
 Flags: HMW
@@ -2035,8 +2036,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: NameMe.55
-Encoding: 55 -1 52
+StartChar: c
+Encoding: 55 99 52
 Width: 398
 VWidth: 0
 Flags: W
@@ -2062,8 +2063,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.56
-Encoding: 56 -1 53
+StartChar: d
+Encoding: 56 100 53
 Width: 510
 VWidth: 0
 Flags: W
@@ -2103,8 +2104,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.0.1
-Encoding: 0 -1 54
+StartChar: exclam
+Encoding: 0 33 54
 Width: 167
 VWidth: 0
 Flags: W
@@ -2125,8 +2126,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.57
-Encoding: 57 -1 55
+StartChar: e
+Encoding: 57 101 55
 Width: 441
 VWidth: 0
 Flags: W
@@ -2160,8 +2161,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.58
-Encoding: 58 -1 56
+StartChar: f
+Encoding: 58 102 56
 Width: 405
 VWidth: 0
 Flags: W
@@ -2202,8 +2203,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.59
-Encoding: 59 -1 57
+StartChar: g
+Encoding: 59 103 57
 Width: 520
 VWidth: 0
 Flags: W
@@ -2245,8 +2246,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.60
-Encoding: 60 -1 58
+StartChar: h
+Encoding: 60 104 58
 Width: 471
 VWidth: 0
 Flags: W
@@ -2287,8 +2288,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.61
-Encoding: 61 -1 59
+StartChar: i
+Encoding: 61 105 59
 Width: 187
 VWidth: 0
 Flags: W
@@ -2314,8 +2315,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.62
-Encoding: 62 -1 60
+StartChar: j
+Encoding: 62 106 60
 Width: 327
 VWidth: 0
 Flags: W
@@ -2343,8 +2344,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.63
-Encoding: 63 -1 61
+StartChar: k
+Encoding: 63 107 61
 Width: 453
 VWidth: 0
 Flags: W
@@ -2381,8 +2382,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.64
-Encoding: 64 -1 62
+StartChar: l
+Encoding: 64 108 62
 Width: 184
 VWidth: 0
 Flags: W
@@ -2403,8 +2404,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.65
-Encoding: 65 -1 63
+StartChar: m
+Encoding: 65 109 63
 Width: 700
 VWidth: 0
 Flags: W
@@ -2450,8 +2451,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.66
-Encoding: 66 -1 64
+StartChar: n
+Encoding: 66 110 64
 Width: 427
 VWidth: 0
 Flags: W
@@ -2484,8 +2485,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.67
-Encoding: 67 -1 65
+StartChar: o
+Encoding: 67 111 65
 Width: 489
 VWidth: 0
 Flags: W
@@ -2508,8 +2509,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.68
-Encoding: 68 -1 66
+StartChar: p
+Encoding: 68 112 66
 Width: 484
 VWidth: 0
 Flags: W
@@ -2543,8 +2544,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.69
-Encoding: 69 -1 67
+StartChar: q
+Encoding: 69 113 67
 Width: 471
 VWidth: 0
 Flags: W
@@ -2581,8 +2582,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.70
-Encoding: 70 -1 68
+StartChar: r
+Encoding: 70 114 68
 Width: 336
 VWidth: 0
 Flags: W
@@ -2603,8 +2604,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.71
-Encoding: 71 -1 69
+StartChar: s
+Encoding: 71 115 69
 Width: 356
 VWidth: 0
 Flags: W
@@ -2628,8 +2629,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.72
-Encoding: 72 -1 70
+StartChar: t
+Encoding: 72 116 70
 Width: 324
 VWidth: 0
 Flags: W
@@ -2657,8 +2658,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.73
-Encoding: 73 -1 71
+StartChar: u
+Encoding: 73 117 71
 Width: 444
 VWidth: 0
 Flags: W
@@ -2680,8 +2681,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.74
-Encoding: 74 -1 72
+StartChar: v
+Encoding: 74 118 72
 Width: 470
 VWidth: 0
 Flags: W
@@ -2701,8 +2702,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.75
-Encoding: 75 -1 73
+StartChar: w
+Encoding: 75 119 73
 Width: 666
 VWidth: 0
 Flags: W
@@ -2730,8 +2731,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.76
-Encoding: 76 -1 74
+StartChar: x
+Encoding: 76 120 74
 Width: 423
 VWidth: 0
 Flags: W
@@ -2759,8 +2760,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.77
-Encoding: 77 -1 75
+StartChar: y
+Encoding: 77 121 75
 Width: 505
 VWidth: 0
 Flags: W
@@ -2784,8 +2785,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.78
-Encoding: 78 -1 76
+StartChar: z
+Encoding: 78 122 76
 Width: 416
 VWidth: 0
 Flags: W
@@ -2810,8 +2811,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.1
-Encoding: 1 -1 77
+StartChar: quotedbl
+Encoding: 1 34 77
 Width: 322
 VWidth: 0
 Flags: W
@@ -2832,8 +2833,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.2
-Encoding: 2 -1 78
+StartChar: percent
+Encoding: 2 37 78
 Width: 737
 VWidth: 0
 Flags: HW
@@ -2860,8 +2861,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.27
-Encoding: 27 -1 79
+StartChar: A
+Encoding: 27 65 79
 Width: 614
 VWidth: 0
 Flags: W
@@ -2898,8 +2899,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.28
-Encoding: 28 -1 80
+StartChar: B
+Encoding: 28 66 80
 Width: 555
 VWidth: 0
 Flags: W
@@ -2961,8 +2962,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.29
-Encoding: 29 -1 81
+StartChar: C
+Encoding: 29 67 81
 Width: 459
 VWidth: 0
 Flags: W
@@ -2990,8 +2991,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.30
-Encoding: 30 -1 82
+StartChar: D
+Encoding: 30 68 82
 Width: 523
 VWidth: 0
 Flags: W
@@ -3029,8 +3030,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.31
-Encoding: 31 -1 83
+StartChar: E
+Encoding: 31 69 83
 Width: 472
 VWidth: 0
 Flags: W
@@ -3071,8 +3072,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.32
-Encoding: 32 -1 84
+StartChar: F
+Encoding: 32 70 84
 Width: 462
 VWidth: 0
 Flags: W
@@ -3120,8 +3121,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.33
-Encoding: 33 -1 85
+StartChar: G
+Encoding: 33 71 85
 Width: 619
 VWidth: 0
 Flags: W
@@ -3167,8 +3168,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.34
-Encoding: 34 -1 86
+StartChar: H
+Encoding: 34 72 86
 Width: 529
 VWidth: 0
 Flags: W
@@ -3221,8 +3222,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.35
-Encoding: 35 -1 87
+StartChar: I
+Encoding: 35 73 87
 Width: 361
 VWidth: 0
 Flags: W
@@ -3260,8 +3261,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.36
-Encoding: 36 -1 88
+StartChar: J
+Encoding: 36 74 88
 Width: 310
 VWidth: 0
 Flags: W
@@ -3300,8 +3301,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.37
-Encoding: 37 -1 89
+StartChar: K
+Encoding: 37 75 89
 Width: 556
 VWidth: 0
 Flags: W
@@ -3366,8 +3367,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.38
-Encoding: 38 -1 90
+StartChar: L
+Encoding: 38 76 90
 Width: 475
 VWidth: 0
 Flags: W
@@ -3413,8 +3414,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.39
-Encoding: 39 -1 91
+StartChar: M
+Encoding: 39 77 91
 Width: 622
 VWidth: 0
 Flags: W
@@ -3469,8 +3470,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.40
-Encoding: 40 -1 92
+StartChar: N
+Encoding: 40 78 92
 Width: 564
 VWidth: 0
 Flags: W
@@ -3544,8 +3545,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.41
-Encoding: 41 -1 93
+StartChar: O
+Encoding: 41 79 93
 Width: 672
 VWidth: 0
 Flags: W
@@ -3569,8 +3570,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.42
-Encoding: 42 -1 94
+StartChar: P
+Encoding: 42 80 94
 Width: 516
 VWidth: 0
 Flags: W
@@ -3660,8 +3661,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.43
-Encoding: 43 -1 95
+StartChar: Q
+Encoding: 43 81 95
 Width: 654
 VWidth: 0
 Flags: W
@@ -3696,8 +3697,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.44
-Encoding: 44 -1 96
+StartChar: R
+Encoding: 44 82 96
 Width: 560
 VWidth: 0
 Flags: W
@@ -3741,8 +3742,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.45
-Encoding: 45 -1 97
+StartChar: S
+Encoding: 45 83 97
 Width: 503
 VWidth: 0
 Flags: W
@@ -3780,8 +3781,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.46
-Encoding: 46 -1 98
+StartChar: T
+Encoding: 46 84 98
 Width: 588
 VWidth: 0
 Flags: W
@@ -3812,8 +3813,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.47
-Encoding: 47 -1 99
+StartChar: U
+Encoding: 47 85 99
 Width: 597
 VWidth: 0
 Flags: W
@@ -3849,8 +3850,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.48
-Encoding: 48 -1 100
+StartChar: V
+Encoding: 48 86 100
 Width: 660
 VWidth: 0
 Flags: W
@@ -3876,8 +3877,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.49
-Encoding: 49 -1 101
+StartChar: W
+Encoding: 49 87 101
 Width: 864
 VWidth: 0
 Flags: W
@@ -3913,8 +3914,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.50
-Encoding: 50 -1 102
+StartChar: X
+Encoding: 50 88 102
 Width: 587
 VWidth: 0
 Flags: W
@@ -3946,8 +3947,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.51
-Encoding: 51 -1 103
+StartChar: Y
+Encoding: 51 89 103
 Width: 575
 VWidth: 0
 Flags: W
@@ -3976,8 +3977,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.52
-Encoding: 52 -1 104
+StartChar: Z
+Encoding: 52 90 104
 Width: 620
 VWidth: 0
 Flags: W
@@ -4011,8 +4012,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.53
-Encoding: 53 -1 105
+StartChar: a
+Encoding: 53 97 105
 Width: 453
 VWidth: 0
 Flags: W
@@ -4053,8 +4054,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.54
-Encoding: 54 -1 106
+StartChar: b
+Encoding: 54 98 106
 Width: 494
 VWidth: 0
 Flags: W
