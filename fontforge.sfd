@@ -2108,8 +2108,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.94
-Encoding: 94 -1 55
+StartChar: y
+Encoding: 94 121 55
 Width: 505
 VWidth: 0
 Flags: W
@@ -2133,8 +2133,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.95
-Encoding: 95 -1 56
+StartChar: z
+Encoding: 95 122 56
 Width: 416
 VWidth: 0
 Flags: W
@@ -2768,8 +2768,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.57.1
-Encoding: 57 -1 70
+StartChar: N
+Encoding: 57 78 70
 Width: 564
 VWidth: 0
 Flags: W
@@ -2843,8 +2843,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.58.1
-Encoding: 58 -1 71
+StartChar: O
+Encoding: 58 79 71
 Width: 672
 VWidth: 0
 Flags: W
@@ -2868,8 +2868,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.59.1
-Encoding: 59 -1 72
+StartChar: P
+Encoding: 59 80 72
 Width: 516
 VWidth: 0
 Flags: W
@@ -2959,8 +2959,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.90
-Encoding: 90 -1 73
+StartChar: u
+Encoding: 90 117 73
 Width: 444
 VWidth: 0
 Flags: W
@@ -2982,8 +2982,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.91
-Encoding: 91 -1 74
+StartChar: v
+Encoding: 91 118 74
 Width: 470
 VWidth: 0
 Flags: W
@@ -3003,8 +3003,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.92
-Encoding: 92 -1 75
+StartChar: w
+Encoding: 92 119 75
 Width: 666
 VWidth: 0
 Flags: W
@@ -3032,8 +3032,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.93
-Encoding: 93 -1 76
+StartChar: x
+Encoding: 93 120 76
 Width: 423
 VWidth: 0
 Flags: W
@@ -3061,8 +3061,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.60.1
-Encoding: 60 -1 77
+StartChar: Q
+Encoding: 60 81 77
 Width: 654
 VWidth: 0
 Flags: W
@@ -3097,8 +3097,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.61.1
-Encoding: 61 -1 78
+StartChar: R
+Encoding: 61 82 78
 Width: 560
 VWidth: 0
 Flags: W
@@ -3142,8 +3142,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.62.1
-Encoding: 62 -1 79
+StartChar: S
+Encoding: 62 83 79
 Width: 503
 VWidth: 0
 Flags: W
@@ -3181,8 +3181,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.63.1
-Encoding: 63 -1 80
+StartChar: T
+Encoding: 63 84 80
 Width: 588
 VWidth: 0
 Flags: W
@@ -3213,8 +3213,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.64.1
-Encoding: 64 -1 81
+StartChar: U
+Encoding: 64 85 81
 Width: 597
 VWidth: 0
 Flags: W
@@ -3250,8 +3250,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.65.1
-Encoding: 65 -1 82
+StartChar: V
+Encoding: 65 86 82
 Width: 660
 VWidth: 0
 Flags: W
@@ -3277,8 +3277,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.66.1
-Encoding: 66 -1 83
+StartChar: W
+Encoding: 66 87 83
 Width: 864
 VWidth: 0
 Flags: W
@@ -3314,8 +3314,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.67.1
-Encoding: 67 -1 84
+StartChar: X
+Encoding: 67 88 84
 Width: 587
 VWidth: 0
 Flags: W
@@ -3347,8 +3347,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.68.1
-Encoding: 68 -1 85
+StartChar: Y
+Encoding: 68 89 85
 Width: 575
 VWidth: 0
 Flags: W
@@ -3377,8 +3377,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.69.1
-Encoding: 69 -1 86
+StartChar: Z
+Encoding: 69 90 86
 Width: 620
 VWidth: 0
 Flags: W
@@ -3412,8 +3412,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.70.1
-Encoding: 70 -1 87
+StartChar: a
+Encoding: 70 97 87
 Width: 453
 VWidth: 0
 Flags: W
@@ -3454,8 +3454,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.71.1
-Encoding: 71 -1 88
+StartChar: b
+Encoding: 71 98 88
 Width: 494
 VWidth: 0
 Flags: W
@@ -3489,8 +3489,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.72.1
-Encoding: 72 -1 89
+StartChar: c
+Encoding: 72 99 89
 Width: 398
 VWidth: 0
 Flags: W
@@ -3516,8 +3516,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.73.1
-Encoding: 73 -1 90
+StartChar: d
+Encoding: 73 100 90
 Width: 510
 VWidth: 0
 Flags: W
@@ -3557,8 +3557,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.74.1
-Encoding: 74 -1 91
+StartChar: e
+Encoding: 74 101 91
 Width: 441
 VWidth: 0
 Flags: W
@@ -3592,8 +3592,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.75.1
-Encoding: 75 -1 92
+StartChar: f
+Encoding: 75 102 92
 Width: 405
 VWidth: 0
 Flags: W
@@ -3634,8 +3634,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.76.1
-Encoding: 76 -1 93
+StartChar: g
+Encoding: 76 103 93
 Width: 520
 VWidth: 0
 Flags: W
@@ -3677,8 +3677,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.77.1
-Encoding: 77 -1 94
+StartChar: h
+Encoding: 77 104 94
 Width: 471
 VWidth: 0
 Flags: W
@@ -3719,8 +3719,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.78.1
-Encoding: 78 -1 95
+StartChar: i
+Encoding: 78 105 95
 Width: 187
 VWidth: 0
 Flags: W
@@ -3746,8 +3746,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.79
-Encoding: 79 -1 96
+StartChar: j
+Encoding: 79 106 96
 Width: 327
 VWidth: 0
 Flags: W
@@ -3775,8 +3775,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.80
-Encoding: 80 -1 97
+StartChar: k
+Encoding: 80 107 97
 Width: 453
 VWidth: 0
 Flags: W
@@ -3813,8 +3813,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.81
-Encoding: 81 -1 98
+StartChar: l
+Encoding: 81 108 98
 Width: 184
 VWidth: 0
 Flags: W
@@ -3835,8 +3835,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.82
-Encoding: 82 -1 99
+StartChar: m
+Encoding: 82 109 99
 Width: 700
 VWidth: 0
 Flags: W
@@ -3882,8 +3882,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.83
-Encoding: 83 -1 100
+StartChar: n
+Encoding: 83 110 100
 Width: 427
 VWidth: 0
 Flags: W
@@ -3916,8 +3916,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.84
-Encoding: 84 -1 101
+StartChar: o
+Encoding: 84 111 101
 Width: 489
 VWidth: 0
 Flags: W
@@ -3940,8 +3940,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.85
-Encoding: 85 -1 102
+StartChar: p
+Encoding: 85 112 102
 Width: 484
 VWidth: 0
 Flags: W
@@ -3975,8 +3975,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.86
-Encoding: 86 -1 103
+StartChar: q
+Encoding: 86 113 103
 Width: 471
 VWidth: 0
 Flags: W
@@ -4013,8 +4013,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.87
-Encoding: 87 -1 104
+StartChar: r
+Encoding: 87 114 104
 Width: 336
 VWidth: 0
 Flags: W
@@ -4035,8 +4035,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.88
-Encoding: 88 -1 105
+StartChar: s
+Encoding: 88 115 105
 Width: 356
 VWidth: 0
 Flags: W
@@ -4060,8 +4060,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.89
-Encoding: 89 -1 106
+StartChar: t
+Encoding: 89 116 106
 Width: 324
 VWidth: 0
 Flags: W
